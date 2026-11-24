@@ -1,0 +1,75 @@
+Microsoft Windows [Version 10.0.19045.5371]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Fatma.gomea\Desktop\new flutter\flutter_application_1\flutter_todolist1_3>git init
+Initialized empty Git repository in C:/Users/Fatma.gomea/Desktop/new flutter/flutter_application_1/flutter_todolist1_3/.git/
+
+C:\Users\Fatma.gomea\Desktop\new flutter\flutter_application_1\flutter_todolist1_3>git add .
+warning: in the working copy of '.metadata', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'pubspec.lock', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'windows/flutter/generated_plugin_registrant.cc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'windows/flutter/generated_plugin_registrant.h', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'windows/flutter/generated_plugins.cmake', LF will be replaced by CRLF the next time Git touches it
+
+C:\Users\Fatma.gomea\Desktop\new flutter\flutter_application_1\flutter_todolist1_3>git add .
+
+C:\Users\Fatma.gomea\Desktop\new flutter\flutter_application_1\flutter_todolist1_3>git commit -m "First"
+[master (root-commit) c16a1ed] First
+ 38 files changed, 2055 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 .metadata
+ create mode 100644 README.md
+ create mode 100644 analysis_options.yaml
+ create mode 100644 lib/main.dart
+ create mode 100644 lib/model/todolist_model.dart
+ create mode 100644 lib/providers/provider/todolist_provider.dart
+ create mode 100644 lib/screens/home_page.dart
+ create mode 100644 lib/services/todolist_service.dart
+ create mode 100644 lib/wedgits/todolist_item.dart
+ create mode 100644 pubspec.lock
+ create mode 100644 pubspec.yaml
+ create mode 100644 test/widget_test.dart
+ create mode 100644 web/favicon.png
+ create mode 100644 web/icons/Icon-192.png
+ create mode 100644 web/icons/Icon-512.png
+ create mode 100644 web/icons/Icon-maskable-192.png
+ create mode 100644 web/icons/Icon-maskable-512.png
+ create mode 100644 web/index.html
+ create mode 100644 web/manifest.json
+ create mode 100644 windows/.gitignore
+ create mode 100644 windows/CMakeLists.txt
+ create mode 100644 windows/flutter/CMakeLists.txt
+ create mode 100644 windows/flutter/generated_plugin_registrant.cc
+ create mode 100644 windows/flutter/generated_plugin_registrant.h
+ create mode 100644 windows/flutter/generated_plugins.cmake
+ create mode 100644 windows/runner/CMakeLists.txt
+ create mode 100644 windows/runner/Runner.rc
+ create mode 100644 windows/runner/flutter_window.cpp
+ create mode 100644 windows/runner/flutter_window.h
+ create mode 100644 windows/runner/main.cpp
+ create mode 100644 windows/runner/resource.h
+ create mode 100644 windows/runner/resources/app_icon.ico
+ create mode 100644 windows/runner/runner.exe.manifest
+ create mode 100644 windows/runner/utils.cpp
+ create mode 100644 windows/runner/utils.h
+ create mode 100644 windows/runner/win32_window.cpp
+ create mode 100644 windows/runner/win32_window.h
+
+C:\Users\Fatma.gomea\Desktop\new flutter\flutter_application_1\flutter_todolist1_3>git remote add origin https://github.com/fatmagomaa19-stack/ToDoList.git
+
+C:\Users\Fatma.gomea\Desktop\new flutter\flutter_application_1\flutter_todolist1_3>git branch -M main
+
+C:\Users\Fatma.gomea\Desktop\new flutter\flutter_application_1\flutter_todolist1_3>git push -u origin main
+Enumerating objects: 54, done.
+Counting objects: 100% (54/54), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (47/47), done.
+Writing objects: 100% (54/54), 73.02 KiB | 1.87 MiB/s, done.
+Total 54 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/fatmagomaa19-stack/ToDoList.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+C:\Users\Fatma.gomea\Desktop\new flutter\flutter_application_1\flutter_todolist1_3>
+C:\Users\Fatma.gomea\Desktop\new flutter\flutter_application_1\flutter_todolist1_3>
